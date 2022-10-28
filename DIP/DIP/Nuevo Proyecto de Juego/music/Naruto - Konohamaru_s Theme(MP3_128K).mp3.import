@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Naruto - Konohamaru_s Theme(MP3_128K).mp3-2ce462d5c03b473776d4c737c0e728b6.mp3str"
+
+[deps]
+
+source_file="res://music/Naruto - Konohamaru_s Theme(MP3_128K).mp3"
+dest_files=[ "res://.import/Naruto - Konohamaru_s Theme(MP3_128K).mp3-2ce462d5c03b473776d4c737c0e728b6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

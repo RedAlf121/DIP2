@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Naruto Soundtrack -  Fooling Mode(MP3_128K).mp3-d6f46d55873a9adc266332068b1b415b.mp3str"
+
+[deps]
+
+source_file="res://music/Naruto Soundtrack -  Fooling Mode(MP3_128K).mp3"
+dest_files=[ "res://.import/Naruto Soundtrack -  Fooling Mode(MP3_128K).mp3-d6f46d55873a9adc266332068b1b415b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
